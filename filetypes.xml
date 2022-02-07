@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -10,7 +9,6 @@
       <mapping pattern=".gitignor" type="PLAIN_TEXT" />
       <mapping pattern="privateKey" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="rs" type="Rust" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -18,6 +16,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
