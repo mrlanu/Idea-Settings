@@ -1,12 +1,10 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/home/mrlanu/development/java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
-  }
-}]]></component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
     </defaultProject>
   </component>
 </application>
